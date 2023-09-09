@@ -1,4 +1,4 @@
 joblib==1.0.1
-numpy==1.19.5
+numpy
 streamlit==1.10.0
-tensorflow==2.5.0
+tensorflow
